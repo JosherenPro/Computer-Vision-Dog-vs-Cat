@@ -4,7 +4,7 @@ This repository contains a deep learning project for **binary image classificati
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 We use the [Cats and Dogs dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification?select=train) from Kaggle.  
 
@@ -15,7 +15,7 @@ We use the [Cats and Dogs dataset](https://www.kaggle.com/datasets/samuelcortinh
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - Python 3.8+  
 - TensorFlow 2.12+  
